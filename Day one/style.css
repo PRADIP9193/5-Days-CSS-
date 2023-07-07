@@ -1,5 +1,5 @@
 /* First card */
- .first-card {
+.first-card {
   box-sizing: border-box;
   border-radius: 11px;
   background-color: #65e496;
@@ -26,9 +26,8 @@
   margin-top: 15px;
 }
 
-
 /* Second card */
-  
+
 .profile {
   margin: 100px 0;
 }
@@ -50,7 +49,7 @@
   border-radius: 50%;
   padding: 20px 40px 40px 40px;
   /* padding-bottom: 50px; */
- text-align: start;
+  text-align: start;
 }
 .profile-h3 {
   font-size: xx-large;
@@ -73,11 +72,11 @@
   font-size: larger;
   font-weight: 500;
   color: #4178e1;
-} 
+}
 
 /* Third card */
 
- .third-card {
+.third-card {
   box-sizing: border-box;
   width: 550px;
   border: 1px solid #dbdcdf;
@@ -120,57 +119,55 @@
   color: #4178e1;
   background-color: #fff;
   border-radius: 7px;
-} 
-
+}
 
 /* 4th card */
-.last-card{
-  box-sizing: border-box;
+.last-card {
+  /* box-sizing: border-box; */
+  text-align: center;
   width: 300px;
-  
+
   border-radius: 14px 14px;
   margin: 10px auto;
   padding: 50px;
-  text-align: center;
-  justify-content: center;
+
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
-.lastcard-heading{
-  font-family: 'Moirai One', cursive;
+.lastcard-heading {
+  font-family: "Moirai One", cursive;
   font-size: 45px;
   font-weight: 900;
 }
-.lastcard-subheading{
+.lastcard-subheading {
   font-weight: 600;
 }
-.input-4th{
+.input-4th {
   padding: 15px 35px;
-  width: 100%;
+  width: 200px;
   margin: 5px 0;
   border-radius: 10px;
   border: 1px solid #dbdcdf;
-
 }
-.lastcard-button{
+.lastcard-button {
   padding: 15px 40px;
   width: 200px;
-  border:  0;
+  border: 0;
   border-radius: 50px;
   background-color: black;
   color: white;
   font-size: 15px;
-  margin:10px 20px ;
+  margin: 10px 20px;
 }
-.lastcard-para1{
+.lastcard-para1 {
   color: #63666c9d;
   font-size: 15px;
 }
-.lastcard-para1 a{
+.lastcard-para1 a {
   color: #6c6f72;
 }
 
-.lastcard-para2{
+.lastcard-para2 {
   color: #63666c9d;
   font-size: 12px;
 }

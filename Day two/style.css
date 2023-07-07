@@ -1,0 +1,82 @@
+/* ad- card */
+
+/* .ad-card {
+  margin: 30px auto;
+  box-sizing: border-box;
+  border: 1px solid hsl(0, 0%, 83%);
+  width: 600px;
+  padding: 15px;
+  border-radius: 10px;
+  position: relative;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  box-shadow: 9px 16px 66px -3px #b4a8a8;
+}
+.ad-img {
+  width: 100%;
+  border-radius: 15px;
+}
+.promoted {
+  border-radius: 4px;
+  width: fit-content;
+  padding: 2px 8px;
+
+  width: fit-content;
+  background-color: rgba(152, 104, 119, 0.572);
+  color: #c0b2b7;
+  font-size: 15px;
+  position: absolute;
+  top: 0;
+  margin: 30px 12px;
+}
+.ad-off {
+  width: fit-content;
+  padding: 2px 20px;
+  background-color: rgba(39, 112, 239, 0.801);
+  color: #ffffff;
+  font-size: 25px;
+  position: absolute;
+  top: 300px;
+  font-weight: 300px;
+  margin: 10px 0;
+}
+
+.ad-timestamp {
+  width: fit-content;
+  padding: 5px 10px;
+  background-color: #f8f9f9c9;
+  font-size: 17px;
+  position: absolute;
+  top: 300px;
+  right: 0;
+  font-weight: 450;
+  margin-right: 25px;
+  border-radius: 5px;
+}
+.ad-heading {
+  margin: 10px 0;
+  font-size: xx-large;
+  font-weight: 500;
+}
+.ad-subheading {
+  font-size: 25px;
+  color: #898989;
+  margin: 0 0 40px auto;
+  font-weight: 300;
+}
+hr {
+  border: 1px solid lightgrey;
+}
+.flex {
+  display: flex;
+}
+.ad-safetyimg {
+  margin: 10px 0;
+  width: 100px;
+}
+.ad-safety {
+  margin: 0;
+  padding: 0 15px;
+  font-size: x-large;
+  color: #898989;
+} */
