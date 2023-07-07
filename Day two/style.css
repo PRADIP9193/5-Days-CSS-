@@ -1,6 +1,6 @@
-/* ad- card */
+/* ad- card */ 
 
-/* .ad-card {
+.ad-card {
   margin: 30px auto;
   box-sizing: border-box;
   border: 1px solid hsl(0, 0%, 83%);
@@ -79,4 +79,4 @@ hr {
   padding: 0 15px;
   font-size: x-large;
   color: #898989;
-} */
+}
