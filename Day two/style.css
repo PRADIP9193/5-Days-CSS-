@@ -3,7 +3,7 @@
 }
 /* ad- card */
 
-/* .ad-card {
+ .ad-card {
   margin: 30px auto;
   box-sizing: border-box;
   border: 1px solid hsl(0, 0%, 83%);
@@ -82,10 +82,10 @@ hr {
   padding: 0 15px;
   font-size: x-large;
   color: #898989;
-} */
+} 
 
 /* second-card */
-/*
+
 .second-card {
   box-sizing: border-box;
   width: 60vw;
@@ -121,7 +121,7 @@ hr {
 /* third card */
 
 .third-card {
-  width: 80%;
+  width: 900px;
   margin: 50px auto;
   position: relative;
   /* text-align: center; */
@@ -137,11 +137,12 @@ hr {
 }
 .over-content {
   margin: 50px auto;
-  padding: 0 300px;
   position: absolute;
-  bottom: 50px;
+  left: 0;
+  bottom:0;
   text-align: center;
   color: #ffffff;
+  transform: translate(-50% -50%);
 }
 .input {
   display: flex;
@@ -192,7 +193,7 @@ hr {
 }
 
 /* Fourth card */
-/* .fourth-card {
+ .fourth-card {
   width: 400px;
   height: 700px;
   margin: 50px auto;
@@ -223,4 +224,4 @@ hr {
  color: #898989;
  font-size: 18px;
  font-weight: 400;
-} */
+} 
