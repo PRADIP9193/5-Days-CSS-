@@ -27,3 +27,16 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0.18);
 }
+.card-3 {
+  width: 300px;
+  padding: 50px;
+  margin: 30px auto;
+  box-sizing: border-box;
+  text-align: center;
+  background: rgba(207, 207, 207, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(91, 206, 87, 0.37);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
