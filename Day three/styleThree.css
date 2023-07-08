@@ -7,6 +7,9 @@
 
 .nav-bar {
   display: flex;
+  position: sticky;
+  top: 0;
+  z-index: 3;
   margin: 0 auto;
   justify-content: space-between;
   align-items: center;
@@ -14,6 +17,7 @@
   padding: 16px 80px;
   border-bottom: 1.5px solid #e0e0e0;
   line-height: 19px;
+  background-color: white;
 }
 .logo {
   height: 32px;
@@ -96,9 +100,13 @@
 .second-nav {
   width: 100vw;
   display: flex;
+  position: sticky;
+  top: 89px;
+  z-index: 4;
   justify-content: center;
   align-items: center;
   padding: 10px 20px;
+  background-color: white;
   margin: 20px auto;
 }
 .second-nav .first {
@@ -190,9 +198,9 @@
 
 .card {
   width: 300px;
-  height: 386px;
+  height: 400px;
   position: relative;
-  margin: 40px auto;
+  margin: 30px auto;
 }
 .img-area {
   top: 0;
@@ -205,12 +213,12 @@
 }
 .card-image {
   width: 100%;
-  height: 287px;
+  height: 290px;
   border-radius: 14px;
 }
 .host-profile {
-  width: 56px;
-  height: 60px;
+  width: 58px;
+  height: 65px;
   background-color: #ebebeb;
   position: absolute;
   top: 205px;
@@ -225,8 +233,8 @@
   height: 38px;
   border-radius: 50%;
   position: absolute;
-  top: 10px;
-  left: 9px;
+  top: 12px;
+  left: 10px;
   border: 1px solid #bd8989cb;
 }
 .text-area {
@@ -264,4 +272,60 @@
 
 .pricing span {
   font-weight: 600;
+}
+
+.main-card-section {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+  padding: 0px 50px;
+  margin: 20px auto;
+}
+.showmap-btn {
+  position: fixed;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: 16px;
+  bottom: 90px;
+  left: 650px;
+  z-index: 2;
+  padding: 15px 30px;
+  border-radius: 50px;
+  border: none;
+}
+.sticked-footer {
+  display: flex;
+  position: fixed;
+  width: 100vw;
+  bottom: 0;
+  margin: 0px auto;
+  justify-content: space-between;
+  padding: 20px 60px;
+  background-color: white;
+}
+.selector {
+  display: flex;
+  gap: 10px;
+}
+.selector a {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  color: #222222;
+}
+.selector p {
+  font-size: 14px;
+  font-weight: 600;
+  color: #222222;
+}
+.contact-info a {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 400;
+  color: #222222;
+}
+.link32 {
+  font-weight: 200;
 }
